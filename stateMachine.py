@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 20 18:45:00 2023
 
-@author: Raphael_Gerth
+@author: nonononon..
 """
 
 class StateMachine:
